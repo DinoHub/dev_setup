@@ -1,0 +1,11 @@
+jsonlines
+pytorch-lightning
+torch
+tensorflow-gpu
+scikit-learn
+pandas
+scipy
+numpy
+opencv-python
+transformers
+clearml
